@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/mybean/data/ShowByPage.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleDatabase.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleExit.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleLogin.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleModifyMess.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandlePassword.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleRegister.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/myservlet/control/HandleUpload.java" charset="GB2312" />
+  </component>
+</project>
